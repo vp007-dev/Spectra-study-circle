@@ -1,4 +1,4 @@
-/** @jsx jsx */
+
 import { jsx, Box, Container, Heading, Text, Button, Image } from 'theme-ui';
 import banner from 'assets/images/banner.png';
 import paypal from 'assets/images/paypal.png';
